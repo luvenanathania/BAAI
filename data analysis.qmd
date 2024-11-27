@@ -1,0 +1,19 @@
+---
+title: "Data Analysis"
+author: "Vena"
+Institute: "Tunghai University"
+number-sections: true
+toc: true
+format: html
+---
+## Key points
+
+- Data loading
+- Data Inspection
+    -structure
+    -Value
+- Data cleaning 
+    - Dealing with missing data
+    - Detecint outliers
+- Data transformation
+    - encoding
